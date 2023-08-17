@@ -16,7 +16,13 @@ class ViewController: UIViewController {
         // #3
         // #4
         // #5
-
+        // #3.2 !
+<<<<<<< Updated upstream
+        // #3.2 >>>>>>>
+        // 777777
+=======
+        // >>>>>
+>>>>>>> Stashed changes
 
 
     }
